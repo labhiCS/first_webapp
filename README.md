@@ -61,7 +61,6 @@ First web application using Django
 
     `$ python3 manage.py runserver`
 
-
 * Starting Application
 
     `$ python3 manage.py start.app <unique foldernames>`
